@@ -17,7 +17,7 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = true // auto read message
+global.autoread = false // auto read message
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false
@@ -31,24 +31,24 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "sandaru" //nama kalian
+global.botname = "nova-Md v2" //namabot kalian
+global.ownername = "shashika " //nama kalian
 global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
 global.myweb2 = "https://s.id/BOTGITHUB" //bebas
-global.email = "mdsandaru2@gmail.com" //bebas
+global.email = "thejanshashika@gmail.com" //bebas
 global.region = "Buddhist" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
-global.premium = ['94764497078'] //premium user
-global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "764497078" // nomor wa kalian
-global.ownernomerr = "+94764497078" //nmr wa kalian
+global.premium = ['94715442757'] //premium user
+global.owner = ["94715442757"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "715442757" // nomor wa kalian
+global.ownernomerr = "+94715442757" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.background_welcome = "https://telegra.ph/file/1c448faa5b93a37869e77.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Md' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© nova legendz-Md' //sticker wm ubah
+global.author = 'nove legendz Ofc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -57,20 +57,20 @@ global.limitawal = {
    free: 100
 }
 
-global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
-global.bankRPG = 'https://telegra.ph/file/ce47dca98cfdb34162abb.png'
-global.bansosRPG = 'https://telegra.ph/file/646af753f38fbf7bbbccc.jpg'
-global.bansosRPG_ = 'https://telegra.ph/file/ba18a18aac022170c8056.jpg'
-global.berburuRPG = 'https://telegra.ph/file/95a202f631ab7172c3f25.jpg'
-global.inventoryRPG = 'https://telegra.ph/file/507395e2edbd1d740a0fd.png'
-global.cooldownRPG = 'https://telegra.ph/file/5e1e191a47028d9648ffa.jpg'
-global.dailyRPG = 'https://telegra.ph/file/17e857848a3afdb1c4fd8.jpg'
-global.hourlyRPG = 'https://telegra.ph/file/bcabf71c0f56207d1629e.jpg'
-global.kandangRPG = 'https://telegra.ph/file/89c3b3ec69d373da8f64b.jpg'
-global.kolamRGP = 'https://telegra.ph/file/0bc07117c78b2c9674b7d.jpg'
-global.mancingRPG = 'https://telegra.ph/file/1420d26b7f04f84993225.jpg'
-global.monthlyRPG = 'https://telegra.ph/file/7eadf65b95d9f7a3ecb46.jpg'
-global.weeklyRPG = 'https://telegra.ph/file/ffc85895d14db97931f0f.jpg'
+global.adventureRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.bankRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.bansosRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.bansosRPG_ = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.berburuRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.inventoryRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.cooldownRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.dailyRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.hourlyRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.kandangRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.kolamRGP = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.mancingRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.monthlyRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
+global.weeklyRPG = 'https://telegra.ph/file/1c448faa5b93a37869e77.jpg'
 global.rpg = {
    emoticon(string) {
       string = string.toLowerCase()
